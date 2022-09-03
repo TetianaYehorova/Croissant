@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: bisque;
+  margin: 20px 60px;
+}
+p {
+  line-height: 1.5;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.navigation {
+  display: flex;
+  justify-content: center;
+}
+.navigation a {
+  margin: 20px;
+  color: rgb(36, 144, 28);
+}
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
